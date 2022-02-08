@@ -1,6 +1,3 @@
-
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
-
 <h3> &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
@@ -35,9 +32,11 @@
 
 <br/>
 
-<a href="https://github.com/VanessaSwerts">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaSwerts&theme=dracula&show_icons=true" />
+<a href="https://github.com/lucasdepvh">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasMartins&theme=dracula&show_icons=true" />
+
 </a>
+ 
 
 <br/>
 
